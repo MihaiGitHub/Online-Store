@@ -34,7 +34,7 @@ function Header() {
         <Link href="/cart">
           <Menu.Item header active={isActive('/cart')}>
             <Icon
-              name="Cart"
+              name="cart"
               size="large" />
             Cart
           </Menu.Item>
