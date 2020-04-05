@@ -5,6 +5,7 @@ import Header from "./Header";
 import HeadContent from "./HeadContent";
 
 function Layout({ children }) {
+  // Main component that wraps all over components
   return (
     <>
       <Head>
